@@ -8,8 +8,7 @@ def HiWorld ():
 
 def CircleCircumference(r):
     """
-    This function calculates the circumference of
-    a circle, given the radius
+    Hi Anne-Marije git changes number 2 !! 
     """
     circum = 2*np.pi*r
     return (circum)
