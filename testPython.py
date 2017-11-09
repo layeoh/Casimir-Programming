@@ -15,7 +15,7 @@ def CircleCircumference(r):
 
 def CircleArea(r):
     """
-    Hi LaReine, we're awesome at GitHub:-)
+    Hi LaReine, change number 3 is going to be peanuts... :-)
     """
     A = (np.pi)*r**2
     return (A)
