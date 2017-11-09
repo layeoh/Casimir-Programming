@@ -13,3 +13,12 @@ def CircleCircumference(r):
     """
     circum = 2*np.pi*r
     return (circum)
+
+def CircleArea(r):
+    """
+    This function calculates the area of a circule
+    input : radius
+    output: area
+    """
+    A = (np.pi)*r**2
+    return (A)
